@@ -1,12 +1,11 @@
 # Nikola Lukic
-Hi, my name is Nikola (Nick), and I'm a Blockchain Developer. I enjoy developing Frontend and Backend application, as well as decentralized application on EVM based blockchains.
+I'm Nikola (Nick), a Full Stack Blockchain Developer. I develop Front-end and Back-end applications, as well as decentralized applications on EVM based blockchains such as Ethereum, Avalanche, and Polygon.
 
 The inner workings of web based systems, which are often taken for granted, is something that fascinates me.
 
-My experience includes lecturing a university course at the SAE Institute of Belgrade.
+My experience includes lecturing a Web Development University course at the SAE Institute.
 
-Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io).
-(best to view this on Desktop for an additional perc 🙂)
+Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io) inspired by a windows console emulator I use (open the link on your Desktop browser for an additional perc 🙂).
 
 ---
 
@@ -29,7 +28,7 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 ---
 
 ## Improving My Old Repositories
-I recently began re-visiting code I wrote as a student in 2020. I decided to update these repositories in order to implement knowledge gained in security, code optimization, and in general implementing good code practises. Here are a few of those repositories:
+I recently began re-visiting code I wrote as a student in 2020. I started updating these projects to implement knowledge gained in security, code optimization, best code practise. Here are a few of those projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nlukic97&repo=calorieCounterApp)](https://github.com/nlukic97/calorieCounterApp)
 
