@@ -26,6 +26,11 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ---
+## Open source contributions
+Here is [my contribution](https://github.com/jayasurian123/fen-validator/pull/23) to the npm package [fen-validator](https://www.npmjs.com/package/fen-validator). The package was used in [the backend of a chess platform](https://github.com/nlukic97/chess_platform_server) I built.
+I added type checking to the package so that applications would not break if anything other that a string was provided as an argument to the fen validation method.
+
+---
 
 ## Improving My Old Repositories
 I recently began re-visiting code I wrote as a student in 2020. I started updating these projects to implement knowledge gained in security, code optimization, best code practise. Here are a few of those projects:
