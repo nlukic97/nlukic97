@@ -27,8 +27,10 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 
 ---
 ## Open source contributions
-Here is [my contribution](https://github.com/jayasurian123/fen-validator/pull/23) to the npm package [fen-validator](https://www.npmjs.com/package/fen-validator). The package was used in [the backend of a chess platform](https://github.com/nlukic97/chess_platform_server) I built.
-I added type checking to the package so that applications would not break if anything other that a string was provided as an argument to the fen validation method.
+- [My contribution](https://github.com/jayasurian123/fen-validator/pull/23) to the npm package [fen-validator](https://www.npmjs.com/package/fen-validator). The package was used in [the backend](https://github.com/nlukic97/chess_platform_server) of a chess platform I built.
+I added type checking to prevent accidental errors.
+
+- [My contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/53611) to the [freeCodeCamp](https://www.freecodecamp.org) learning platform. The mission of FreeCodeCamp: to help people learn to code for free. I clarified the directions for a practise task.
 
 ---
 
