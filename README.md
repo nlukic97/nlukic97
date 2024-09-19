@@ -5,7 +5,7 @@ The inner workings of web based systems, which are often taken for granted, is s
 
 My experience includes lecturing a Web Development University course at the SAE Institute.
 
-Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io) inspired by a windows console emulator I use (open the link on your Desktop browser for an additional perc 🙂).
+Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io) inspired by a windows console emulator I use (open the link on your Desktop browser for an additional perk 🙂).
 
 ---
 
