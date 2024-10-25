@@ -40,7 +40,9 @@ I added type checking to prevent accidental errors.
 
 I share tips and valuable web development insights on my [twitter feed](https://x.com/nilukic):
 
-[![twitter thread on improving page speed insight SEO score](./images/image.png)](https://x.com/nilukic/status/1848623873228439792)
+<a href="https://x.com/nilukic/status/1848623873228439792">
+    <img src="./images/image.png" alt="twitter thread on improving page speed insights SEO score" style="max-width: 100%; width: 500px;">
+</a>
 
 
 ## Improving My Old Repositories
@@ -56,7 +58,9 @@ I recently began re-visiting code I wrote as a student in 2020. I started updati
 I have a YouTube account where I share anything that I find interesting and/or useful.
 
 ### Crypto Flash Loan Scam - Quick analysis of the code
-[![youtube flash loan scam explained](https://img.youtube.com/vi/IRWpfP6UozU/0.jpg)](https://www.youtube.com/watch?v=IRWpfP6UozU)
 
+<a href="https://www.youtube.com/watch?v=IRWpfP6UozU">
+    <img src="https://img.youtube.com/vi/IRWpfP6UozU/0.jpg" alt="youtube flash loan scam explained" style="max-width: 100%; width: 500px;">
+</a>
 
 
