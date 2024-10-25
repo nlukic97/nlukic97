@@ -13,6 +13,7 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+[![Cardano](https://img.shields.io/badge/-cardano-darkblue?style=for-the-badge&logo=cardano&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=)]()
@@ -21,6 +22,7 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=laravel&logoColor=red)]()
 [![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
@@ -32,7 +34,14 @@ I added type checking to prevent accidental errors.
 
 - [My contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/53611) to the [freeCodeCamp](https://www.freecodecamp.org) learning platform. The mission of FreeCodeCamp: to help people learn to code for free. I clarified the directions for a practise task.
 
----
+
+
+## Twitter threads
+
+I share tips and valuable web development insights on my [twitter feed](https://x.com/nilukic):
+
+[![twitter thread on improving page speed insight SEO score](./images/image.png)](https://x.com/nilukic/status/1848623873228439792)
+
 
 ## Improving My Old Repositories
 I recently began re-visiting code I wrote as a student in 2020. I started updating these projects to implement knowledge gained in security, code optimization, best code practise. Here are a few of those projects:
@@ -47,7 +56,7 @@ I recently began re-visiting code I wrote as a student in 2020. I started updati
 I have a YouTube account where I share anything that I find interesting and/or useful.
 
 ### Crypto Flash Loan Scam - Quick analysis of the code
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IRWpfP6UozU/0.jpg)](https://www.youtube.com/watch?v=IRWpfP6UozU)
+[![youtube flash loan scam explained](https://img.youtube.com/vi/IRWpfP6UozU/0.jpg)](https://www.youtube.com/watch?v=IRWpfP6UozU)
 
 
 
