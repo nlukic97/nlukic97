@@ -40,7 +40,7 @@ Here are a few open source contributions I've made:
 ---
 
 ## Organizer of JavaScript meetups
-I organize regular JavaScript meetups as a co-organizer for BelgradeJS - a community which contributes the JavaScript ecosystem by organizing meetups with guest speakers.
+I organize regular JavaScript meetups as a co-organizer for BelgradeJS - an organization which contributes the JavaScript ecosystem by hosting meetups with guest speakers.
 
 <img src="./images/image_meetup_2.png" alt="belgradejs javascript meetup belgrade" style="max-width: 100%; width: 500px;">
 
