@@ -28,7 +28,9 @@ Currently serving as a co-organizer for BelgradeJS events featuring guest speake
 [![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
 ---
-## Open source contributions
+## My Open source contributions
+Here are a few open source contributions I've made:
+
 -  [fen-validator](https://www.npmjs.com/package/fen-validator) -  package used to validate the Chess FEN notation. I added type checking to the package to prevent accidental errors. Pull request [here](https://github.com/jayasurian123/fen-validator/pull/23).
 
 -  [laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - php package used to register, configure and ask for cookies consent in a EU-compliant way. I made updates to prevent `undefined variable` errors when submiting cookie consent preferences. Pull request [here](https://github.com/whitecube/laravel-cookie-consent/pull/89).
@@ -37,8 +39,8 @@ Currently serving as a co-organizer for BelgradeJS events featuring guest speake
 
 ---
 
-## JavaScript meetups
-I'm actively involved as co-organizer for BelgradeJS - a community which contributes the JavaScript ecosystem by organizing meetups with guest speakers.
+## Organizer of JavaScript meetups
+I organize regular JavaScript meetups as a co-organizer for BelgradeJS - a community which contributes the JavaScript ecosystem by organizing meetups with guest speakers.
 
 <img src="./images/image_meetup_2.png" alt="belgradejs javascript meetup belgrade" style="max-width: 100%; width: 500px;">
 
