@@ -1,11 +1,11 @@
 # Nikola Lukic
-I'm Nikola (Nick), a Full Stack Blockchain Developer. I develop Front-end and Back-end applications, as well as decentralized applications on EVM based blockchains such as Ethereum, Avalanche, and Polygon.
+Full-Stack Software Engineer with 4+ years of experience specialising in React, Next.js, Vue.js, and Laravel, with additional expertise in blockchain development on EVM and Cardano based systems. Proven track record of leading development teams, delivering high-performance web applications, and mentoring developers.
 
-The inner workings of web based systems, which are often taken for granted, is something that fascinates me.
+Successfully completed multiple freelance projects and taught a web development university course at the SAE Institute in Belgrade.
 
-My experience includes lecturing a Web Development University course at the SAE Institute.
+Currently serving as a co-organizer for BelgradeJS events featuring guest speakers, contributing to the web development community through volunteer work.
 
-Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io) inspired by a windows console emulator I use (open the link on your Desktop browser for an additional perk 🙂).
+<!-- Here's a project I'm very proud of - a [command line simulated in the browser](https://nlukic97.github.io) inspired by a windows console emulator I use (open the link on your Desktop browser for an additional perk 🙂). -->
 
 ---
 
@@ -29,38 +29,37 @@ Here's a project I'm very proud of - a [command line simulated in the browser](h
 
 ---
 ## Open source contributions
-- [My contribution](https://github.com/jayasurian123/fen-validator/pull/23) to the npm package [fen-validator](https://www.npmjs.com/package/fen-validator). The package was used in [the backend](https://github.com/nlukic97/chess_platform_server) of a chess platform I built.
-I added type checking to prevent accidental errors.
+-  [fen-validator](https://www.npmjs.com/package/fen-validator) -  package used to validate the Chess FEN notation. I added type checking to the package to prevent accidental errors. Pull request [here](https://github.com/jayasurian123/fen-validator/pull/23).
 
-- [My contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/53611) to the [freeCodeCamp](https://www.freecodecamp.org) learning platform. The mission of FreeCodeCamp: to help people learn to code for free. I clarified the directions for a practise task.
+-  [laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - php package used to register, configure and ask for cookies consent in a EU-compliant way. I made updates to prevent `undefined variable` errors when submiting cookie consent preferences. Pull request [here](https://github.com/whitecube/laravel-cookie-consent/pull/89).
 
-
-
-## Twitter threads
-
-I share tips and valuable web development insights on my [twitter feed](https://x.com/nilukic):
-
-<a href="https://x.com/nilukic/status/1848623873228439792">
-    <img src="./images/image.png" alt="twitter thread on improving page speed insights SEO score" style="max-width: 100%; width: 500px;">
-</a>
-
-
-## Improving My Old Repositories
-I recently began re-visiting code I wrote as a student in 2020. I started updating these projects to implement knowledge gained in security, code optimization, best code practise. Here are a few of those projects:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nlukic97&repo=calorieCounterApp)](https://github.com/nlukic97/calorieCounterApp)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nlukic97&repo=crypto-donations)](https://github.com/nlukic97/crypto-donations)
+-  [freeCodeCamp](https://www.freecodecamp.org) learning platform. The mission of FreeCodeCamp: to help people learn to code for free. I clarified the directions for a practise task. Pull request [here](https://github.com/freeCodeCamp/freeCodeCamp/pull/53611).
 
 ---
 
-## YouTube
-I have a YouTube account where I share anything that I find interesting and/or useful.
+## JavaScript meetups
+I'm actively involved as co-organizer for BelgradeJS - a community which contributes the JavaScript ecosystem by organizing meetups with guest speakers.
 
-### Crypto Flash Loan Scam - Quick analysis of the code
+<img src="./images/image_meetup_2.png" alt="belgradejs javascript meetup belgrade" style="max-width: 100%; width: 500px;">
 
-<a href="https://www.youtube.com/watch?v=IRWpfP6UozU">
-    <img src="https://img.youtube.com/vi/IRWpfP6UozU/0.jpg" alt="youtube flash loan scam explained" style="max-width: 100%; width: 500px;">
+_myself (far right) at a meetup with my teammates._
+
+<br>
+
+<img src="./images/image_meetup.png" alt="belgradejs javascript meetup belgrade" style="max-width: 100%; width: 500px;">
+
+_myself (standing in the middle) at a meetup with my teammates._
+
+## Insights and articles
+
+I share valuable web development insights through posts and articles on my [linked feed](https://www.linkedin.com/in/nikola-lukic):
+
+<a href="https://www.linkedin.com/pulse/memoization-javascript-when-optimization-goes-wrong-nikola-lukic-agenf">
+    <img src="./images/image.png" alt="screenshot of linkedin article about memoization in javascript" style="max-width: 100%; width: 500px;">
 </a>
 
+<br>
 
+<a href="https://www.linkedin.com/posts/nikola-lukic_your-servers-client-handling-logic-may-be-activity-7342507801677582337-TTzY">
+    <img src="./images/image_2.png" alt="screenshot of linkedin post about websocket memory leaks" style="max-width: 100%; width: 500px;">
+</a>
